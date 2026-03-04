@@ -16,7 +16,7 @@ By the end of this week you will be able to:
 
 ## 🎓 Session Resources
 
-- Lecture: [Working with External Data & APIs](https://docs.google.com/presentation/d/17qr5r4V0jTdqEAMUix-iGxap5Bq_CKU6jnZ7Tg1pPyI/edit?slide=id.g3ca37c2d83d_0_8#slide=id.g3ca37c2d83d_0_8)
+- Lecture: [Working with External Data & APIs](https://docs.google.com/presentation/d/1oeIQs-J0VXUy-q47VLeAYVMNk4Ae69iWFZPsh5oDBqQ/edit?slide=id.g230b312f0cd_0_28#slide=id.g230b312f0cd_0_28)
 - Tutorial: [Working with External Data & APIs](notebooks/tutorial_apis.ipynb)
 
 ## 🏁 Mini-Deliverable
